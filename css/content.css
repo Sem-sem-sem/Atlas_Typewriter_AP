@@ -1,0 +1,521 @@
+/* .title, h1, h2, p {
+font-family: "AtlasTypewriter-Bold-Trial";
+} */
+
+body{
+width: 100%;
+overflow-x: hidden;
+}
+
+.section_boby {
+width: 1440px;
+margin: 0 auto;
+background-image: url("../img/foto0.svg");
+background-repeat: no-repeat;
+background-size: cover; 
+background-position: center;
+position: 120px 0px;
+}
+
+
+.main{
+font-family: "AtlasTypewriter-Medium-Trial", sans-serif;
+font-style: normal;
+font-weight: 00;
+font-size: 220px;
+text-align: center;
+margin-top: -60%;
+margin-bottom: 30%;
+color: #3D3D3D;
+}
+
+.foto1n2{
+margin-top: -80%;
+margin-bottom: 1.7%;
+}
+
+.title{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+margin-top: 20px;
+margin-left: 5%;
+line-height: 200%;
+color: #3D3D3D;
+}
+.title2{
+font-family: "AtlasTypewriter-Regular-Trial", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+margin-top: 20px;
+margin-left: 5%;
+font-size: 80px;
+line-height: 100%;
+color: #3D3D3D;
+}
+.info{
+font-family: "AtlasTypewriter-Thin-Trial", sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 50px;
+margin-top: 10px;
+margin-left: 5%;
+font-size: 20px;
+line-height: 120%;
+color: #3D3D3D;
+}
+
+.first{
+display: flex;
+/* justify-content: space-between; */
+}
+
+.foto3{
+width: 100%;
+}
+.foto3img{
+width: 100%;
+}
+
+.block4{
+margin-top: -10%;
+}
+
+.firstblock{
+margin-left: 3%;
+width: 50%;
+}
+
+.foto4{
+width: 100%;
+/* text-align: center; */
+margin-top: 100px;
+/* margin-left: 5%; */
+
+}
+.my4foto{
+width: 90%;
+margin-left: 5%;
+}
+
+
+.foto5text{
+font-family: "AtlasTypewriter-Thin-Trial", sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 20px;
+margin-left: 50%;
+margin-top: 150px;
+color: #3D3D3D;
+}
+
+.foto5{
+/* margin-left: -5%; */
+margin-top: -5%;
+}
+
+
+.foto6img{
+margin-top: 4%;
+display: flex;
+align-items: center;
+width: 95%;
+margin-left: 1%;
+}
+
+.foto7{
+margin-top: 10%;
+margin-left: -3%;
+width: 100%;
+margin-left: 0.2%;
+}
+
+.foto8{
+margin-top: -15%;
+margin-left: 5%;
+}
+
+.tour{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 25px;
+margin-top: -18.5%;
+margin-left: 13.5%;
+color: #3D3D3D;
+}
+.eks{
+font-family: "AtlasTypewriter-Thin-Trial", sans-serif;
+font-style: thin;
+font-weight: 200;
+font-size: 20px;
+margin-top: 0.7%;
+margin-left: 17.5%; 
+color: #3D3D3D;
+}
+
+.foto8blok2{
+margin-top: 0.4%;
+}
+.remn{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 32px;
+margin-top: 2.5%;
+margin-left: 9.5%;
+color: #3D3D3D;
+}
+
+.ost{
+font-family: "AtlasTypewriter-Thin-Trial", sans-serif;
+font-style: thin;
+font-weight: 200;
+font-size: 20px;
+margin-top: 1%;
+margin-left: 18%; 
+color: #3D3D3D;
+}
+
+.foto8blok3{
+margin-top: 21%;
+margin-left: 1%;
+}
+
+.tick{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 26px;
+margin-top: -19.5%;
+margin-left: 13.5%;
+color: #3D3D3D;
+}
+
+.bil{
+font-family: "AtlasTypewriter-Thin-Trial", sans-serif;
+font-style: thin;
+font-weight: 200;
+font-size: 20px;
+margin-top: 0.8%;
+margin-left: 17.5%; 
+color: #3D3D3D;
+}
+
+.foto9{
+display: flex; 
+justify-content: right;
+margin-right: 6.5%;
+}
+
+.foto9text{
+display: flex; 
+justify-content: right;
+margin-right: 19%;
+margin-top: -40%;
+}
+
+.bea{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 36px;
+margin-right: -7.5%;
+margin-top: -1%;
+color: #3D3D3D;
+
+}
+
+.bea2{
+font-family: "AtlasTypewriter-Medium-Trial", sans-serif;
+font-style: Medium;
+font-weight: Medium;
+font-size: 25px;
+margin-right: 1%;
+margin-top: 2.5%;
+color: #3D3D3D;
+}
+
+.foto9text2{
+display: flex; 
+justify-content: right;
+margin-right: 19%;
+margin-top: 6%;
+}
+
+.cit{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 36px;
+margin-right: -7%;  
+color: #3D3D3D;
+}
+
+.cit2{
+font-family: "AtlasTypewriter-Medium-Trial", sans-serif;
+font-style: Medium;
+font-weight: Medium;
+font-size: 25px;
+margin-right: 1%;
+margin-top: 3.5%;
+color: #3D3D3D;
+}
+
+.foto9block{
+margin-top: -43%;
+}
+
+.foto10{
+margin-top: 40%;
+margin-left: 1%;
+width: 100%;
+}
+
+.foto10text{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 78px;
+margin-left: 4%; 
+margin-top: -93%;
+color: #3D3D3D;
+}
+
+.foto10text2{
+font-family: "AtlasTypewriter-Thin-Trial", sans-serif;
+font-style: thin;
+font-weight: thin;
+font-size: 35px;
+margin-left: 29%; 
+margin-top: 1%;
+color: #3D3D3D;
+}
+
+.foto10text3{
+font-family: "AtlasTypewriter-Thin-Trial", sans-serif;
+font-style: thin;
+font-weight: thin;
+font-size: 16px;
+margin-left: 4%; 
+margin-top: 2.5%; 
+color: #3D3D3D;
+}
+
+.foto11{
+margin-top: 70%;
+/* width: 1440px; */
+width: 100%;
+}
+
+.foto11t{
+margin-top: -160%;
+}
+
+.foto11text{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 123px;
+text-align: center;
+color: #3D3D3D;
+
+}
+
+.foto11text2{
+font-family: "AtlasTypewriter-Thin-Trial", sans-serif;
+font-style: thin;
+font-weight: thin;
+font-size: 118px;
+margin-left: 15%; 
+color: #3D3D3D;
+
+}
+
+.latin {
+margin-top: 72px;
+display: flex;
+}
+
+.descript {
+margin-left: 45px;
+width: 218px;
+}
+
+.name_lat{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 75px;
+margin-left: 155%;
+margin-top: 30%;
+color: #E57734;
+}
+
+.alphabet_latin {
+width: 1000px;
+margin-left: -13%;
+margin-top: 10%;
+}
+
+.name_cir{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 75px;
+margin-left: 47%;
+margin-top: 5%;
+color: #A28BF5;
+}
+
+.alphabet_cyrillic {
+width: 1000px;
+margin-left: 25%;
+margin-top: 1%;
+}
+
+.row_1_table {
+display: flex;
+border-top: 3px solid #3D3D3D;
+border-bottom: 3px solid #3D3D3D;
+margin-top: 10px;
+}
+.row_2_table, .row_3_table, .row_4_table, .row_5_table {
+display: flex;
+border-bottom: 3px solid #3D3D3D;
+}
+.row_1_table p, .row_2_table p, .row_3_table p, .row_4_table p, .row_5_table p {
+width: 80px;
+font-family: "AtlasTypewriter-Regular-Trial" , sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 53.0504px;
+text-align: center;
+letter-spacing: -0.065em;
+margin: 13px 0 11px 0px;
+color: #3D3D3D;
+}
+.row_5_table_lat {
+display: flex;
+border-bottom: 3px solid #3D3D3D;
+}
+.row_5_table_lat p {
+width: 77px;
+font-family: "AtlasTypewriter-Regular-Trial" , sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 53.0504px;
+text-align: center;
+letter-spacing: -0.065em;
+margin: 13px 0 11px 0px;
+}
+
+.numbers {
+width: 800px;
+margin-left: 5.5%;
+}
+
+.name_number{
+align-items: center;
+font-family: "AtlasTypewriter-Bold-Trial" , sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 75px;
+margin-top: 5%;
+margin-left: 24%;
+color: #E57734;
+}
+
+.row_4_table_pun {
+display: flex;
+border-bottom: 3px solid #3D3D3D;
+}
+.row_4_table_pun p {
+width: 77px;
+font-family: "AtlasTypewriter-Regular-Trial", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 53.0504px;
+text-align: center;
+letter-spacing: -0.065em;
+margin: 13px 0 11px 0px;
+}
+
+.punctuation {
+width: 1000px;
+margin-left: 25%;
+margin-top: 1%;
+}
+
+.name_punct{
+align-items: center;
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: bold;
+font-weight: bold;
+font-size: 75px;
+margin-top: 5%;
+margin-left: 47%;
+color: #A28BF5;
+}
+
+.foto_last_text{
+    margin-top: -20%;
+    width: 350px;
+    transform: rotate(21deg);
+    margin-left: 1%;
+}
+
+.last_p1{
+font-family: "AtlasTypewriter-Regular-Trial", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+margin-top: -5%;
+color: #3D3D3D;
+}
+
+.last_h{
+    font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+    font-style: bold;
+    font-weight: bold;
+    font-size: 43px;
+    margin-top: 35px;
+    color: #3D3D3D;
+}
+
+.last_p2{
+font-family: "AtlasTypewriter-Bold-Trial", sans-serif;
+font-style: Bold;
+font-weight: Bold;
+font-size: 33px;
+color: #3D3D3D;
+}
+
+.last_p3{
+font-family: "AtlasTypewriter-Regular-Trial", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+margin-top: 28px;
+color: #3D3D3D;
+}
+
+.last_p4{
+font-family: "AtlasTypewriter-Regular-Trial", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+margin-top: 0.3%;
+color: #3D3D3D;
+}
+
+
+.foto_l{
+    width: 100%;
+    margin-top: 1%;
+}
+.end{
+    margin-top: 3%;
+}
